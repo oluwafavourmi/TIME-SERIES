@@ -1,1 +1,2 @@
 # TIME-SERIES
+This project focuses on using different methods to analyse and predict time series data, in the time2.ipynb notebook of this folder, I did a univariate time series prediction on the BTC dataset from September 2023 to September 2024, the LSTM model was chosen and used. But more methods will be used soon and results will be compared in performances. 
